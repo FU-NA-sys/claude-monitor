@@ -50,5 +50,8 @@ Claude デスクトップアプリを開くと表示され、閉じると隠れ�
 - ログイン情報（`~/.claude/.credentials.json`）は読み取るだけで、書き換えません。送信先は Anthropic の公式サーバー（api.anthropic.com）のみです。
 - アンインストール: 右クリック →「終了」後、スタートアップフォルダ（`Win+R` → `shell:startup`）の `claude_monitor.bat` を削除。
 
+## 更新履歴
+[CHANGELOG.md](CHANGELOG.md) を見てください。
+
 ## ライセンス
 MIT
